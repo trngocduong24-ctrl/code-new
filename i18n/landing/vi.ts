@@ -4,144 +4,144 @@ export const viLanding: LandingStrings = {
   header: {
     logoLabel: 'Meta',
     nav: [
-      { label: 'Lợi ích', href: '#benefits' },
+      { label: 'Tổng quan', href: '#benefits' },
       { label: 'Quy trình', href: '#steps' },
-      { label: 'Đánh giá', href: '#testimonials' },
+      { label: 'Phản hồi', href: '#testimonials' },
       { label: 'Hỏi đáp', href: '#faq' },
     ],
-    cta: 'Bắt đầu ngay',
-    ctaAria: 'Bắt đầu ngay — kích hoạt Meta Verified for Business',
+    cta: 'Kiểm tra ngay',
+    ctaAria: 'Kiểm tra ngay — rà soát và xác minh chính sách Trang',
   },
   hero: {
-    title: 'Trang của bạn đã đủ điều kiện kích hoạt Meta Verified.',
+    title: 'Trang của bạn có cảnh báo liên quan đến vi phạm chính sách.',
     lead:
-      'Theo yêu cầu hiện hành, Trang doanh nghiệp của bạn đã được xác nhận đủ điều kiện tham gia Meta Verified for Business. Hoàn tất kích hoạt để hiển thị huy hiệu xác minh và giúp khách hàng nhận diện thương hiệu chính thức trên Facebook, Instagram và WhatsApp.',
+      'Hệ thống ghi nhận Trang doanh nghiệp của bạn có dấu hiệu vi phạm chính sách hiện hành. Vui lòng hoàn tất xác minh thông tin và rà soát tài khoản để tránh hạn chế tính năng cũng như duy trì hoạt động ổn định trên Facebook, Instagram và WhatsApp.',
     eligibility:
-      'Lời mời này chỉ áp dụng cho Trang đã được đánh giá đủ điều kiện theo chính sách Meta Verified for Business hiện hành. Vui lòng hoàn tất thông tin kích hoạt để tiếp tục.',
+      'Thông báo này áp dụng cho Trang cần kiểm tra tính tuân thủ theo chính sách hiện hành. Vui lòng cung cấp đầy đủ thông tin xác minh để tiếp tục.',
     creatorPrefix: 'Bạn là người sáng tạo nội dung?',
-    creatorLink: 'Tìm hiểu Meta Verified dành cho người sáng tạo',
-    cta: 'Kích hoạt',
-    badgeAlt: 'Huy hiệu Meta Verified',
-    videoAria: 'Video giới thiệu Meta Verified for Business',
+    creatorLink: 'Tìm hiểu quy định chính sách dành cho người sáng tạo',
+    cta: 'Xác minh ngay',
+    badgeAlt: 'Huy hiệu trạng thái tài khoản',
+    videoAria: 'Video hướng dẫn rà soát và tuân thủ chính sách',
   },
   benefits: {
-    title: 'Khám phá lợi ích của Meta Verified for Business',
+    title: 'Vì sao cần rà soát và tuân thủ chính sách kịp thời',
     subtitle:
-      'Xác minh danh tính doanh nghiệp và mở khóa các công cụ giúp bạn kết nối với khách hàng một cách đáng tin cậy hơn.',
-    learnMore: 'Tìm hiểu thêm',
+      'Chủ động kiểm tra thông tin và xử lý cảnh báo giúp bảo vệ Trang, duy trì uy tín và tránh gián đoạn hoạt động.',
+    learnMore: 'Xem chi tiết',
     items: [
       {
-        title: 'Huy hiệu xác minh',
+        title: 'Duy trì hiển thị Trang',
         description:
-          'Hiển thị huy hiệu Meta Verified trên Trang và tài khoản Instagram được liên kết để khách hàng nhận biết doanh nghiệp chính thức của bạn.',
+          'Hạn chế nguy cơ giảm phân phối hoặc tạm ngưng hiển thị trên Trang và tài khoản Instagram liên kết do vướng cảnh báo chính sách.',
       },
       {
-        title: 'Bảo vệ danh tính',
+        title: 'Bảo vệ danh tính & tài khoản',
         description:
-          'Giám sát mạnh mẽ hơn đối với việc mạo danh thương hiệu và các tài khoản giả mạo có thể gây nhầm lẫn cho khách hàng.',
+          'Giúp phát hiện sớm các hành vi bất thường, xâm nhập hoặc mạo danh ảnh hưởng đến độ an toàn của Trang.',
       },
       {
-        title: 'Hỗ trợ ưu tiên',
+        title: 'Hỗ trợ rà soát hồ sơ',
         description:
-          'Truy cập kênh hỗ trợ ưu tiên khi bạn cần trợ giúp về Trang, tài khoản hoặc các vấn đề liên quan đến xác minh.',
+          'Cung cấp kênh tiếp nhận thông tin rõ ràng khi bạn cần kiểm tra lại trạng thái Trang hoặc các vấn đề liên quan đến chính sách.',
       },
       {
-        title: 'Nâng cao uy tín',
+        title: 'Giữ vững độ tin cậy',
         description:
-          'Cho thấy bạn đã hoàn tất quy trình xác minh của Meta — tín hiệu quan trọng khi khách hàng quyết định tin tưởng thương hiệu.',
+          'Đảm bảo thông tin quản trị và hoạt động kinh doanh minh bạch để khách hàng an tâm khi tương tác với Trang.',
       },
       {
-        title: 'Công cụ doanh nghiệp',
+        title: 'Ổn định công cụ doanh nghiệp',
         description:
-          'Tận dụng các tính năng dành cho doanh nghiệp đã xác minh trên Facebook, Instagram và WhatsApp.',
+          'Giữ các tính năng quản lý và kết nối trên Facebook, Instagram và WhatsApp hoạt động liền mạch.',
       },
       {
-        title: 'Phát triển bền vững',
+        title: 'Hoạt động bền vững',
         description:
-          'Xây dựng mối quan hệ lâu dài với khách hàng trên các ứng dụng Meta mà họ sử dụng hàng ngày.',
+          'Xây dựng nền tảng vận hành tuân thủ lâu dài để Trang phát triển ổn định và tránh lặp lại vi phạm.',
       },
     ],
   },
   steps: {
-    title: 'Kích hoạt Meta Verified for Business.',
+    title: 'Quy trình kiểm tra và xử lý cảnh báo chính sách.',
     subtitle:
-      'Trang của bạn đã đáp ứng điều kiện tham gia. Hoàn tất các bước bên dưới để kích hoạt huy hiệu xác minh và duy trì tính chính trực của chương trình dành cho doanh nghiệp.',
+      'Trang của bạn đang cần được kiểm tra để đối chiếu với chính sách hiện hành. Hoàn tất các bước bên dưới để gửi thông tin xác minh.',
     items: [
       {
-        title: 'Bắt đầu kích hoạt.',
+        title: 'Bắt đầu kiểm tra.',
         description:
-          'Trang của bạn đã được đối chiếu với yêu cầu Meta Verified for Business (Facebook và Instagram; WhatsApp nếu áp dụng). Khi bắt đầu, hãy chuẩn bị sẵn thông tin liên hệ doanh nghiệp để hoàn tất nhanh chóng.',
+          'Rà soát thông tin Trang và các tài khoản liên kết (Facebook, Instagram, WhatsApp nếu áp dụng). Chuẩn bị sẵn thông tin liên hệ chính xác trước khi tiến hành.',
       },
       {
-        title: 'Xác minh chi tiết về doanh nghiệp.',
+        title: 'Cung cấp thông tin xác minh.',
         description:
-          'Trong form Thông tin kích hoạt, bạn cần cung cấp họ và tên người đại diện, tên Trang/Fanpage, ngày tháng năm sinh, email liên hệ, email doanh nghiệp và số điện thoại. Vui lòng điền chính xác và đầy đủ các trường bắt buộc để hoàn tất kích hoạt Meta Verified.',
+          'Trong biểu mẫu xác minh, điền họ và tên người quản trị/đại diện, tên Trang, ngày tháng năm sinh, email liên hệ, email doanh nghiệp và số điện thoại. Vui lòng điền chính xác các trường bắt buộc.',
       },
       {
-        title: 'Được xem xét.',
+        title: 'Chờ xem xét.',
         description:
-          'Chúng tôi sẽ xem xét hồ sơ của bạn và gửi thông tin mới về trạng thái của bạn trong vòng 3 ngày làm việc.',
+          'Chúng tôi sẽ kiểm tra thông tin bạn gửi và cập nhật trạng thái xử lý trong vòng 3 ngày làm việc.',
       },
     ],
   },
   testimonials: {
-    title: 'Doanh nghiệp nói gì về Meta Verified',
-    prevAria: 'Câu chuyện trước',
-    nextAria: 'Câu chuyện tiếp theo',
+    title: 'Chia sẻ từ các quản trị viên khi xử lý rà soát',
+    prevAria: 'Chia sẻ trước',
+    nextAria: 'Chia sẻ tiếp theo',
     items: [
       {
         quote:
-          'Huy hiệu xác minh giống như dấu tin cậy. Mọi người tự hiểu rằng trang của chúng tôi là doanh nghiệp thật — điều đó rất quan trọng.',
+          'Khi nhận thông báo cảnh báo, việc kiểm tra và điền thông tin rõ ràng giúp đội ngũ xử lý nhanh hơn và giữ trang hoạt động ổn định.',
         author: 'Ben Cherrey',
         role: 'Nhà sáng lập & trưởng nhóm thiết kế, Outside Design Nature Hotel',
       },
       {
         quote:
-          'Meta Verified giúp tăng sự tự tin trực tuyến. Tôi tin rằng nó khiến khách hàng và đối tác sẵn sàng tương tác hơn và thể hiện tính xác thực rõ ràng hơn.',
+          'Cập nhật thông tin chính xác và phản hồi sớm giúp tài khoản tránh bị gián đoạn lâu, giữ sự tin cậy với khách hàng.',
         author: 'Kimber Greenwood',
         role: 'Nhà sáng lập, Water Bear Photography',
       },
       {
         quote:
-          'Kể từ khi đăng ký, tôi thấy khác biệt rõ rệt. Bài đăng có thêm phạm vi tiếp cận, tương tác tăng và nhiều tương tác hơn trên Stories cũng như Reels. Huy hiệu cũng góp phần lớn vào niềm tin — các thương hiệu đã nói rõ điều đó giúp họ tự tin liên hệ với tôi hơn.',
+          'Tuân thủ đúng quy định và hoàn tất rà soát kịp thời giúp duy trì tương tác trên bài đăng, Stories cũng như Reels mà không bị ảnh hưởng.',
         author: 'Devon Kirby',
         role: 'Chủ sở hữu, Mom Approved Miami',
       },
     ],
   },
   finalCta: {
-    title: 'Hoàn tất kích hoạt Meta Verified',
+    title: 'Hoàn tất xác minh thông tin cho Trang',
     subtitle:
-      'Trang của bạn đã đủ điều kiện. Tiếp tục để khách hàng nhận biết Trang chính thức và thương hiệu đã được xác minh.',
-    cta: 'Kích hoạt',
+      'Trang của bạn cần được kiểm tra để đảm bảo tuân thủ chính sách. Tiếp tục để gửi thông tin và theo dõi trạng thái.',
+    cta: 'Xác minh ngay',
   },
   faq: {
     title: 'Câu hỏi thường gặp',
     items: [
       {
-        question: 'Meta Verified for Business là gì?',
+        question: 'Vì sao Trang nhận được thông báo vi phạm chính sách?',
         answer:
-          'Đây là chương trình giúp doanh nghiệp đủ điều kiện xác minh danh tính và kích hoạt huy hiệu Meta Verified cùng các lợi ích bảo vệ thương hiệu trên các ứng dụng Meta.',
+          'Cảnh báo có thể xuất hiện khi hệ thống ghi nhận dấu hiệu chưa phù hợp với tiêu chuẩn cộng đồng, chính sách quảng cáo hoặc yêu cầu xác minh thông tin quản trị.',
       },
       {
-        question: 'Kích hoạt Meta Verified có mất phí không?',
+        question: 'Gửi thông tin kiểm tra và xác minh có mất phí không?',
         answer:
-          'Hiện tại chương trình đang được triển khai miễn phí cho doanh nghiệp đủ điều kiện. Bạn chỉ cần hoàn tất form Thông tin kích hoạt và chờ xem xét hồ sơ.',
+          'Việc gửi thông tin rà soát và xác minh trạng thái Trang không tính phí. Bạn chỉ cần điền đầy đủ biểu mẫu và chờ kết quả kiểm tra.',
       },
       {
-        question: 'Ai đủ điều kiện kích hoạt?',
+        question: 'Ai nên thực hiện bước xác minh này?',
         answer:
-          'Meta Verified for Business dành cho các Trang đáp ứng yêu cầu về danh tính, hoạt động kinh doanh và chính sách của Meta. Nếu bạn nhận được lời mời này, Trang của bạn đã được đánh giá là đủ điều kiện theo tiêu chí hiện hành.',
+          'Quản trị viên hoặc người đại diện hợp pháp của Trang cần thực hiện kiểm tra và cung cấp thông tin chính xác để hồ sơ được đối chiếu.',
       },
       {
-        question: 'Mất bao lâu để được xem xét?',
+        question: 'Mất bao lâu để có kết quả xem xét?',
         answer:
-          'Chúng tôi sẽ xem xét hồ sơ của bạn và gửi thông tin cập nhật về trạng thái trong vòng 3 ngày làm việc.',
+          'Thông tin của bạn sẽ được xem xét và phản hồi cập nhật trạng thái trong vòng 3 ngày làm việc.',
       },
       {
-        question: 'Meta Verified bảo vệ thương hiệu khỏi giả mạo như thế nào?',
+        question: 'Làm sao để hạn chế các cảnh báo chính sách về sau?',
         answer:
-          'Chương trình giúp phát hiện và xử lý các tài khoản mạo danh doanh nghiệp trên Facebook và Instagram. Huy hiệu xác minh cũng giúp khách hàng dễ dàng nhận ra trang chính thức của bạn.',
+          'Duy trì thông tin quản trị minh bạch, kiểm tra kỹ nội dung đăng tải và tuân thủ các quy định hiện hành trên Facebook, Instagram và WhatsApp.',
       },
     ],
   },
